@@ -20,7 +20,7 @@
     {
       "binding": "DB",
       "database_name": "mix10-pro-revendedores-db",
-      "database_id": "00000000-0000-4000-8000-000000000000",
+      "database_id": "b9c3730d-bcb1-4778-8b4a-6cff7bd78370",
       "migrations_dir": "drizzle"
     }
   ],
